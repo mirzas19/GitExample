@@ -12,6 +12,5 @@ public class JavaExampleProject {
         System.out.println(s);
         long l = 1278787;
         System.out.println(l);
-
     }
 }
